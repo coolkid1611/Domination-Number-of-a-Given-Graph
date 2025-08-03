@@ -1,5 +1,5 @@
-<div align="center" style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; line-height: 1.5;">
-  This text is **bold**, centered, and has custom font with line spacing.
+<div align="center" style="font-family: Arial, sans-serif; font-size: 40px; font-weight: bold; line-height: 1.5;">
+  This text is **bold**, centered, and has custom font with line spacing.<br>
 </div>
 
 
